@@ -1,0 +1,15 @@
+C:\Users\TURAL\Desktop\tapsiriq 25.02\25.02tap8\25.02tap8\bin\Debug\net6.0\25.02tap8.exe
+C:\Users\TURAL\Desktop\tapsiriq 25.02\25.02tap8\25.02tap8\bin\Debug\net6.0\25.02tap8.deps.json
+C:\Users\TURAL\Desktop\tapsiriq 25.02\25.02tap8\25.02tap8\bin\Debug\net6.0\25.02tap8.runtimeconfig.json
+C:\Users\TURAL\Desktop\tapsiriq 25.02\25.02tap8\25.02tap8\bin\Debug\net6.0\25.02tap8.dll
+C:\Users\TURAL\Desktop\tapsiriq 25.02\25.02tap8\25.02tap8\bin\Debug\net6.0\25.02tap8.pdb
+C:\Users\TURAL\Desktop\tapsiriq 25.02\25.02tap8\25.02tap8\obj\Debug\net6.0\25.02tap8.csproj.AssemblyReference.cache
+C:\Users\TURAL\Desktop\tapsiriq 25.02\25.02tap8\25.02tap8\obj\Debug\net6.0\25.02tap8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TURAL\Desktop\tapsiriq 25.02\25.02tap8\25.02tap8\obj\Debug\net6.0\25.02tap8.AssemblyInfoInputs.cache
+C:\Users\TURAL\Desktop\tapsiriq 25.02\25.02tap8\25.02tap8\obj\Debug\net6.0\25.02tap8.AssemblyInfo.cs
+C:\Users\TURAL\Desktop\tapsiriq 25.02\25.02tap8\25.02tap8\obj\Debug\net6.0\25.02tap8.csproj.CoreCompileInputs.cache
+C:\Users\TURAL\Desktop\tapsiriq 25.02\25.02tap8\25.02tap8\obj\Debug\net6.0\25.02tap8.dll
+C:\Users\TURAL\Desktop\tapsiriq 25.02\25.02tap8\25.02tap8\obj\Debug\net6.0\refint\25.02tap8.dll
+C:\Users\TURAL\Desktop\tapsiriq 25.02\25.02tap8\25.02tap8\obj\Debug\net6.0\25.02tap8.pdb
+C:\Users\TURAL\Desktop\tapsiriq 25.02\25.02tap8\25.02tap8\obj\Debug\net6.0\25.02tap8.genruntimeconfig.cache
+C:\Users\TURAL\Desktop\tapsiriq 25.02\25.02tap8\25.02tap8\obj\Debug\net6.0\ref\25.02tap8.dll
